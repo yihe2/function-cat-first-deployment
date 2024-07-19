@@ -1,8 +1,11 @@
 # 模板介绍
 
- - 原始项目地址： [AstroPaper](https://github.com/satnaing/astro-paper) 。
+| 项目信息       | 详情                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------- |
+| 原始项目地址   | [AstroPaper](https://github.com/satnaing/astro-paper)                                 |
+| 原始项目Star   | [![GitHub stars](https://img.shields.io/github/stars/satnaing/astro-paper?style=social)](https://github.com/satnaing/astro-paper/stargazers) |
 
- - 原始项目Star： [![GitHub stars](https://img.shields.io/github/stars/satnaing/astro-paper?style=social)](https://github.com/satnaing/astro-paper/stargazers)
+
 
 以下是原始项目的 README 内容：
 
