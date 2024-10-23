@@ -1,0 +1,22 @@
+opensystem: v1.0.0
+info:
+  name: astro paper 
+envs:
+  prod:
+    branch: main
+routes:
+  main_env: prod
+  main_app: frontend
+apps:
+  frontend:
+    type: web_frontend
+    envs:
+      prod:
+        build:
+          root_path: ./
+          command:  npm run build
+        provision:
+          root_path: dist
+          runtime:
+            type: nodejs18x
+     
